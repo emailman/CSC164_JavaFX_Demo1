@@ -1,4 +1,4 @@
-package sample;
+package call_buttons;
 
 import javafx.scene.control.Label;
 

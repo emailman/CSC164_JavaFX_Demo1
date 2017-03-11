@@ -1,4 +1,4 @@
-package sample;
+package call_buttons;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
